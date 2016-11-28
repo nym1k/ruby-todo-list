@@ -156,5 +156,3 @@ if __FILE__ == $PROGRAM_NAME
         end
     puts "Outro - Thanks for using the menu system!"
 end 
-
-#8 https://www.codecademy.com/final_project/ruby
